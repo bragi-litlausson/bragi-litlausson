@@ -1,0 +1,19 @@
+#+title: Hello world! I'm Bragi.
+I am tech enthusiast who loves to learn about new things and to solve problems with code.
+
+I am getting payed to create things in C#, in my free time I am using...
+| *Python* | Mostly scripts, back in the day I wrote few websites in Django and Flask.                                            |
+| *Rust*   | I am still at the level I like to call "I wonder what is around this corner... Wow... But... Wow...".                |
+| *Bash*   | I am definitely newbie grabbing the biggest hammer I can lift and smashing things until they break or start working. |
+| LUA    | From time to time I like to write smth simple in PICO-8.                                                             |
+
+When I am not writing code I like to write about things in my Digital Garden (link to be added).
+If weather is nice (nice is a subjective term) I will take my camera for a nice, long walk.
+
+* License
+Distributed under the =0BSD= for more information go to =LICENSE=.
+
+[[https://www.youtube.com/watch?v=5qacGULztuQ][TL;DR]]
+* Contact
+bragi.litlausson at proton mail
+Project link https:github.com/bragi.litlausson/bragi.litalausson
