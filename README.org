@@ -6,6 +6,7 @@ I am getting payed to create things in C#, in my free time I am using...
 | *Rust*   | I am still at the level I like to call "I wonder what is around this corner... Wow... But... Wow...".                |
 | *Bash*   | I am definitely newbie grabbing the biggest hammer I can lift and smashing things until they break or start working. |
 | LUA    | From time to time I like to write smth simple in PICO-8.                                                             |
+| C# | I am getting paid to use this. 5+ years of experience and counting. |
 
 When I am not writing code I like to write about things in my Digital Garden (link to be added).
 If weather is nice (nice is a subjective term) I will take my camera for a nice, long walk.
